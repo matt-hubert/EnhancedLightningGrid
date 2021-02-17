@@ -1,5 +1,8 @@
-.THIS.pullup{
+.THIS .pullup{
     vertical-align: top;
+}
+.THIS .pullright{
+    text-align: right;
 }
 .THIS .linkbutton {
     line-height:1em;
